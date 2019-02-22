@@ -1,0 +1,2 @@
+# manifesto
+Joystream Manifesto
